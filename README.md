@@ -16,4 +16,4 @@
 ### Skillsets
 * Focus on Next.js, React, C#and Django/DRF
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JenHsuan&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/wakatime?username=JenHsuan)](https://github.com/anuraghazra/github-readme-stats)
