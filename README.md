@@ -5,7 +5,7 @@
 - You can reach me by mailing to of_alpha@hotmail.com
 
 ### Skillsets
-* Focus on Next.js, React, and Django/DRF
+* Focus on Next.js, React, C#and Django/DRF
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JenHsuan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
