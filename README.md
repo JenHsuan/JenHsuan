@@ -4,8 +4,8 @@
 
 ### Recent works
 
-* [Portfolios](https://daily-learning.herokuapp.com/filter/portfolios)
-* [Daily Leaning APP](https://daily-learning.herokuapp.com)
+* [Portfolios](https://www.alayman.io/filter/portfolios)
+* [Daily Leaning APP](https://www.alayman.io/)
 * [npm package: create-nrs-web](https://www.npmjs.com/package/create-nrs-web)
  
 ### Github states
